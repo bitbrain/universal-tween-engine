@@ -1,0 +1,11 @@
+language: java
+
+cache:
+  directories:
+  - ~/.m2/repository
+
+before_install:
+  - chmod +x deployment/deploy.sh
+
+after_success:
+  - ./deployment/deploy.sh
