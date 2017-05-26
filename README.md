@@ -117,3 +117,5 @@ http://www.aurelienribon.com/forum/viewforum.php?f=5
 
 Also, the following link will guide you to a discussion thread that started it all:  
 http://www.badlogicgames.com/forum/viewtopic.php?f=17&t=494
+
+## Modified by bitbrain to be compatible with maven
