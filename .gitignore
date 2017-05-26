@@ -25,3 +25,5 @@
 /java/test/nbproject/*
 
 /csharp/*
+
+**/target/
